@@ -1,5 +1,7 @@
 #Gratitude - DAO #Blockathon Connecting Children to Web3
 
+![](GratitudeDAO.png)
+
 ###Gratitude is a DAO #Blockathon that solves the problems of transparency, accountability and collusion and allocating funding for social good. Onboard participants in low infrastructure regions.
 
 
